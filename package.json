@@ -1,0 +1,22 @@
+{
+  "name": "pack-one-pick-one",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "prod": "aws s3 sync build s3://shanefulmer.com/p1p1/",
+    "create": "stout create --bucket p1p1.com --key AKIAIA6VCDVF3W6UPXZA --secret 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"
+  }
+}

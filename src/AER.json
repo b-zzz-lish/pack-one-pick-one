@@ -1,0 +1,738 @@
+[
+  {
+    "name": "Ajani Unyielding",
+    "score": 10
+  },
+  {
+    "name": "Herald of Anguish",
+    "score": 9.9
+  },
+  {
+    "name": "Rishkar, Peema Renegade",
+    "score": 9.8
+  },
+  {
+    "name": "Aethersphere Harvester",
+    "score": 9.7
+  },
+  {
+    "name": "Heart of Kiran",
+    "score": 9.3
+  },
+  {
+    "name": "Yahenni's Expertise",
+    "score": 9.3
+  },
+  {
+    "name": "Tezzeret the Schemer",
+    "score": 8.6
+  },
+  {
+    "name": "Solemn Recruit",
+    "score": 8.6
+  },
+  {
+    "name": "Untethered Express",
+    "score": 8.3
+  },
+  {
+    "name": "Battle at the Bridge",
+    "score": 8.3
+  },
+  {
+    "name": "Yahenni, Undying Partisan",
+    "score": 8
+  },
+  {
+    "name": "Sram's Expertise",
+    "score": 8
+  },
+  {
+    "name": "Fatal Push",
+    "score": 8
+  },
+  {
+    "name": "Walking Ballista",
+    "score": 7.7
+  },
+  {
+    "name": "Freejam Regent",
+    "score": 7.7
+  },
+  {
+    "name": "Baral's Expertise",
+    "score": 7.7
+  },
+  {
+    "name": "Glint-Sleeve Siphoner",
+    "score": 7.5
+  },
+  {
+    "name": "Ridgescale Tusker",
+    "score": 7.5
+  },
+  {
+    "name": "Scrapper Champion",
+    "score": 7.3
+  },
+  {
+    "name": "Quicksmith Spy",
+    "score": 7.3
+  },
+  {
+    "name": "Aethertide Whale",
+    "score": 7.2
+  },
+  {
+    "name": "Daring Demolition",
+    "score": 7.1
+  },
+  {
+    "name": "Gifted Aetherborn",
+    "score": 7
+  },
+  {
+    "name": "Quicksmith Rebel",
+    "score": 6.9
+  },
+  {
+    "name": "Hungry Flames",
+    "score": 6.9
+  },
+  {
+    "name": "Thopter Arrest",
+    "score": 6.9
+  },
+  {
+    "name": "Exquisite Archangel",
+    "score": 6.9
+  },
+  {
+    "name": "Kari Zev, Skyship Raider",
+    "score": 6.8
+  },
+  {
+    "name": "Aetherwind Basker",
+    "score": 6.6
+  },
+  {
+    "name": "Treasure Keeper",
+    "score": 6.6
+  },
+  {
+    "name": "Greenbelt Rampager",
+    "score": 6.6
+  },
+  {
+    "name": "Vengeful Rebel",
+    "score": 6.5
+  },
+  {
+    "name": "Aethergeode Miner",
+    "score": 6.4
+  },
+  {
+    "name": "Lightning Runner",
+    "score": 6.3
+  },
+  {
+    "name": "Rishkar's Expertise",
+    "score": 6.3
+  },
+  {
+    "name": "Shock",
+    "score": 6.3
+  },
+  {
+    "name": "Caught in the Brights",
+    "score": 6.2
+  },
+  {
+    "name": "Lifecrafter's Bestiary",
+    "score": 6.1
+  },
+  {
+    "name": "Midnight Entourage",
+    "score": 5.9
+  },
+  {
+    "name": "Sram, Senior Edificer",
+    "score": 5.8
+  },
+  {
+    "name": "Metallic Mimic",
+    "score": 5.8
+  },
+  {
+    "name": "Maulfist Revolutionary",
+    "score": 5.8
+  },
+  {
+    "name": "Greenwheel Liberator",
+    "score": 5.5
+  },
+  {
+    "name": "Chandra's Revolution",
+    "score": 5.4
+  },
+  {
+    "name": "Maverick Thopterist",
+    "score": 5.4
+  },
+  {
+    "name": "Airdrop Aeronauts",
+    "score": 5.3
+  },
+  {
+    "name": "Narnam Renegade",
+    "score": 5.1
+  },
+  {
+    "name": "Winding Constrictor",
+    "score": 5
+  },
+  {
+    "name": "Scrap Trawler",
+    "score": 5
+  },
+  {
+    "name": "Wind-Kin Raiders",
+    "score": 4.9
+  },
+  {
+    "name": "Monstrous Onslaught",
+    "score": 4.9
+  },
+  {
+    "name": "Deadeye Harpooner",
+    "score": 4.8
+  },
+  {
+    "name": "Skyship Plunderer",
+    "score": 4.7
+  },
+  {
+    "name": "Aether Poisoner",
+    "score": 4.6
+  },
+  {
+    "name": "Cruel Finality",
+    "score": 4.6
+  },
+  {
+    "name": "Release the Gremlins",
+    "score": 4.6
+  },
+  {
+    "name": "Aether Chaser",
+    "score": 4.4
+  },
+  {
+    "name": "Rogue Refiner",
+    "score": 4.4
+  },
+  {
+    "name": "Reckless Racer",
+    "score": 4.3
+  },
+  {
+    "name": "Dawnfeather Eagle",
+    "score": 4.3
+  },
+  {
+    "name": "Prey Upon",
+    "score": 4.3
+  },
+  {
+    "name": "Felidar Guardian",
+    "score": 4.3
+  },
+  {
+    "name": "Spire Patrol",
+    "score": 4.2
+  },
+  {
+    "name": "Druid of the Cowl",
+    "score": 4.2
+  },
+  {
+    "name": "Aetherstream Leopard",
+    "score": 4.2
+  },
+  {
+    "name": "Reverse Engineer",
+    "score": 4
+  },
+  {
+    "name": "Daredevil Dragster",
+    "score": 3.9
+  },
+  {
+    "name": "Shielded Aether Thief",
+    "score": 3.9
+  },
+  {
+    "name": "Scrounging Bandar",
+    "score": 3.7
+  },
+  {
+    "name": "Lifecraft Cavalry",
+    "score": 3.7
+  },
+  {
+    "name": "Pacification Array",
+    "score": 3.7
+  },
+  {
+    "name": "Renegade Rallier",
+    "score": 3.6
+  },
+  {
+    "name": "Trophy Mage",
+    "score": 3.5
+  },
+  {
+    "name": "Enraged Giant",
+    "score": 3.5
+  },
+  {
+    "name": "Foundry Hornet",
+    "score": 3.5
+  },
+  {
+    "name": "Call for Unity",
+    "score": 3.5
+  },
+  {
+    "name": "Renegade Wheelsmith",
+    "score": 3.4
+  },
+  {
+    "name": "Peacewalker Colossus",
+    "score": 3.4
+  },
+  {
+    "name": "Sweatworks Brawler",
+    "score": 3.3
+  },
+  {
+    "name": "Aether Swooper",
+    "score": 3.3
+  },
+  {
+    "name": "Outland Boar",
+    "score": 3.2
+  },
+  {
+    "name": "Restoration Specialist",
+    "score": 3.2
+  },
+  {
+    "name": "Perilous Predicament",
+    "score": 3.2
+  },
+  {
+    "name": "Aeronaut Admiral",
+    "score": 3.1
+  },
+  {
+    "name": "Tezzeret's Touch",
+    "score": 3
+  },
+  {
+    "name": "Oath of Ajani",
+    "score": 2.9
+  },
+  {
+    "name": "Bastion Inventor",
+    "score": 2.9
+  },
+  {
+    "name": "Weldfast Engineer",
+    "score": 2.8
+  },
+  {
+    "name": "Countless Gears Renegade",
+    "score": 2.8
+  },
+  {
+    "name": "Mechanized Production",
+    "score": 2.7
+  },
+  {
+    "name": "Consulate Crackdown",
+    "score": 2.7
+  },
+  {
+    "name": "Hinterland Drake",
+    "score": 2.6
+  },
+  {
+    "name": "Renegade Map",
+    "score": 2.5
+  },
+  {
+    "name": "Peema Aether-Seer",
+    "score": 2.5
+  },
+  {
+    "name": "Unbridled Growth",
+    "score": 2.4
+  },
+  {
+    "name": "Lifecraft Awakening",
+    "score": 2.4
+  },
+  {
+    "name": "Baral, Chief of Compliance",
+    "score": 2.3
+  },
+  {
+    "name": "Merchant's Dockhand",
+    "score": 2.3
+  },
+  {
+    "name": "Barricade Breaker",
+    "score": 2.2
+  },
+  {
+    "name": "Lifecrafter's Gift",
+    "score": 2.1
+  },
+  {
+    "name": "Hidden Herbalists",
+    "score": 2
+  },
+  {
+    "name": "Aether Herder",
+    "score": 2
+  },
+  {
+    "name": "Mobile Garrison",
+    "score": 2
+  },
+  {
+    "name": "Cogwork Assembler",
+    "score": 1.9
+  },
+  {
+    "name": "Kari Zev's Expertise",
+    "score": 1.9
+  },
+  {
+    "name": "Disallow",
+    "score": 1.9
+  },
+  {
+    "name": "Heroic Intervention",
+    "score": 1.7
+  },
+  {
+    "name": "Hidden Stockpile",
+    "score": 1.7
+  },
+  {
+    "name": "Illusionist's Stratagem",
+    "score": 1.7
+  },
+  {
+    "name": "Leave in the Dust",
+    "score": 1.7
+  },
+  {
+    "name": "Ghirapur Osprey",
+    "score": 1.6
+  },
+  {
+    "name": "Decommission",
+    "score": 1.6
+  },
+  {
+    "name": "Ice Over",
+    "score": 1.6
+  },
+  {
+    "name": "Gremlin Infestation",
+    "score": 1.6
+  },
+  {
+    "name": "Spire of Industry",
+    "score": 1.6
+  },
+  {
+    "name": "Night Market Aeronaut",
+    "score": 1.5
+  },
+  {
+    "name": "Audacious Infiltrator",
+    "score": 1.5
+  },
+  {
+    "name": "Sly Requisitioner",
+    "score": 1.4
+  },
+  {
+    "name": "Silkweaver Elite",
+    "score": 1.4
+  },
+  {
+    "name": "Aid from the Cowl",
+    "score": 1.4
+  },
+  {
+    "name": "Alley Strangler",
+    "score": 1.4
+  },
+  {
+    "name": "Frontline Rebel",
+    "score": 1.3
+  },
+  {
+    "name": "Highspire Infusion",
+    "score": 1.3
+  },
+  {
+    "name": "Defiant Salvager",
+    "score": 1.3
+  },
+  {
+    "name": "Watchful Automaton",
+    "score": 1.3
+  },
+  {
+    "name": "Invigorated Rampage",
+    "score": 1.3
+  },
+  {
+    "name": "Siege Modification",
+    "score": 1.3
+  },
+  {
+    "name": "Inspiring Statuary",
+    "score": 1.2
+  },
+  {
+    "name": "Embraal Gear-Smasher",
+    "score": 1.2
+  },
+  {
+    "name": "Deft Dismissal",
+    "score": 1.2
+  },
+  {
+    "name": "Shipwreck Moray",
+    "score": 1.2
+  },
+  {
+    "name": "Metallic Rebuke",
+    "score": 1.2
+  },
+  {
+    "name": "Resourceful Return",
+    "score": 1.1
+  },
+  {
+    "name": "Dispersal Technician",
+    "score": 1.1
+  },
+  {
+    "name": "Efficient Construction",
+    "score": 1
+  },
+  {
+    "name": "Welder Automaton",
+    "score": 1
+  },
+  {
+    "name": "Aether Inspector",
+    "score": 1
+  },
+  {
+    "name": "Ravenous Intruder",
+    "score": 1
+  },
+  {
+    "name": "Ironclad Revolutionary",
+    "score": 1
+  },
+  {
+    "name": "Alley Evasion",
+    "score": 0.9
+  },
+  {
+    "name": "Implement of Ferocity",
+    "score": 0.9
+  },
+  {
+    "name": "Hope of Ghirapur",
+    "score": 0.9
+  },
+  {
+    "name": "Aerial Modification",
+    "score": 0.9
+  },
+  {
+    "name": "Foundry Assembler",
+    "score": 0.8
+  },
+  {
+    "name": "Gonti's Aether Heart",
+    "score": 0.8
+  },
+  {
+    "name": "Destructive Tampering",
+    "score": 0.8
+  },
+  {
+    "name": "Implement of Examination",
+    "score": 0.8
+  },
+  {
+    "name": "Natural Obsolescence",
+    "score": 0.8
+  },
+  {
+    "name": "Fen Hauler",
+    "score": 0.8
+  },
+  {
+    "name": "Filigree Crawler",
+    "score": 0.8
+  },
+  {
+    "name": "Servo Schematic",
+    "score": 0.7
+  },
+  {
+    "name": "Irontread Crusher",
+    "score": 0.7
+  },
+  {
+    "name": "Reservoir Walker",
+    "score": 0.7
+  },
+  {
+    "name": "Verdant Automaton",
+    "score": 0.7
+  },
+  {
+    "name": "Whir of Invention",
+    "score": 0.7
+  },
+  {
+    "name": "Salvage Scuttler",
+    "score": 0.7
+  },
+  {
+    "name": "Augmenting Automaton",
+    "score": 0.6
+  },
+  {
+    "name": "Paradox Engine",
+    "score": 0.6
+  },
+  {
+    "name": "Conviction",
+    "score": 0.6
+  },
+  {
+    "name": "Lathnu Sailback",
+    "score": 0.6
+  },
+  {
+    "name": "Fourth Bridge Prowler",
+    "score": 0.6
+  },
+  {
+    "name": "Night Market Guard",
+    "score": 0.5
+  },
+  {
+    "name": "Planar Bridge",
+    "score": 0.5
+  },
+  {
+    "name": "Bastion Enforcer",
+    "score": 0.5
+  },
+  {
+    "name": "Precise Strike",
+    "score": 0.5
+  },
+  {
+    "name": "Universal Solvent",
+    "score": 0.5
+  },
+  {
+    "name": "Implement of Malice",
+    "score": 0.5
+  },
+  {
+    "name": "Crackdown Construct",
+    "score": 0.5
+  },
+  {
+    "name": "Dark Intimations",
+    "score": 0.4
+  },
+  {
+    "name": "Pia's Revolution",
+    "score": 0.4
+  },
+  {
+    "name": "Aegis Automaton",
+    "score": 0.3
+  },
+  {
+    "name": "Renegade's Getaway",
+    "score": 0.3
+  },
+  {
+    "name": "Indomitable Creativity",
+    "score": 0.3
+  },
+  {
+    "name": "Consulate Turret",
+    "score": 0.2
+  },
+  {
+    "name": "Consulate Dreadnought",
+    "score": 0.2
+  },
+  {
+    "name": "Negate",
+    "score": 0.2
+  },
+  {
+    "name": "Implement of Improvement",
+    "score": 0.1
+  },
+  {
+    "name": "Implement of Combustion",
+    "score": 0.1
+  },
+  {
+    "name": "Take into Custody",
+    "score": 0.1
+  },
+  {
+    "name": "Wrangle",
+    "score": 0.1
+  },
+  {
+    "name": "Ornithopter",
+    "score": 0
+  },
+  {
+    "name": "Gonti's Machinations",
+    "score": 0
+  },
+  {
+    "name": "Prizefighter Construct",
+    "score": 0
+  },
+  {
+    "name": "Secret Salvage",
+    "score": 0
+  }
+]
